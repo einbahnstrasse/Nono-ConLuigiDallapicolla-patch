@@ -28,7 +28,7 @@ _Initial revisions made by Ilia._
 ##### Added  
 - v1.0 panic button
 - v1.0 preset and counter
-- v1.0 initial mapping for NanoKontrol2
+- v1.0 initial MIDI mapping for NanoKontrol2 (unexposed)
 
 ##### Changed  
 - v1.0 corrected ring modulation synthesis core
